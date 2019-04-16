@@ -1,6 +1,6 @@
 ## 姓名
 
-Phone: 170 7777 7777　　　　　　　 　　　Email: XXX@gmail.com
+Phone: 17749920375　　　　　　　 　　　Email: XXX@gmail.com
 
 GitHub: github.com/XX　　　　　　　　　　Blog: www.XX.com
 

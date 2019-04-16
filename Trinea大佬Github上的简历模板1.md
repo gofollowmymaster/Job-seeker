@@ -1,6 +1,6 @@
 ## 姓名
 
-170 7777 7777 | xxx@gmail.com | github.com/xx | www.xx.com
+177 499 20375 |     男     |     本科     |      两年经验     |     
 
 ---
 
@@ -23,7 +23,6 @@ codeKK1 公司 | Android 高级开发
 XXX 学校 | XX 专业 | 本科
 
 专业排名：x/xxx		GPA：
-
 
 ---
 
